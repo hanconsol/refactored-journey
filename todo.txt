@@ -9,4 +9,5 @@ MY TO-DO LIST
 7. Practice code
 8. Pushups 
 9. Learn Git 
+10. Try add, commit, and push again
 
