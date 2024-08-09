@@ -10,4 +10,6 @@ MY TO-DO LIST
 8. Pushups 
 9. Learn Git 
 10. Try add, commit, and push again
+11. See how branch works
+12. Remain curious about forks 
 
